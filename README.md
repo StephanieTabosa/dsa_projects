@@ -2,7 +2,7 @@
 
 Projetos de Business Intelligence utilizando o Microsoft Power BI
 
-## Primeiro relatório de vendas
+**Primeiro relatório de vendas**
 - [x] Feito
 - [ ] A fazer
 
